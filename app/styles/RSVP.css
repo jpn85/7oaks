@@ -1,0 +1,30 @@
+.rsvpFormInner {
+  max-width: 90%;
+  margin: auto;
+  /*height: auto;*/
+  background-color: white;
+}
+
+.rsvpFormOuter {
+  /*max-width:100%;*/
+  /*margin: auto;*/
+  /*height: auto;*/
+  padding-top: 3%;
+  padding-bottom: 7%;
+
+  background: repeating-linear-gradient(
+    to right,
+    #b5df91,
+    #b5df91 10px,
+    #e6b2e0 10px,
+    #e6b2e0 20px
+  );
+
+}
+
+.rsvp{
+  color: #8c2658;
+  text-align: center;
+}
+
+

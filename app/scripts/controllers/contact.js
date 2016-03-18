@@ -2,10 +2,10 @@
 
 
 angular.module('mytodoApp')
-  .controller('ContactCtrl', function () {
-    this.awesomeThings = [
+    .controller('ProjectsCtrl', function () {
+        this.awesomeThings = [
       'HTML5 Boilerplate',
       'AngularJS',
       'Karma'
     ];
-  });
+    });
